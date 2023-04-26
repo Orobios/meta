@@ -1,0 +1,10 @@
+{
+	"launcher": {
+		"components": {},
+		"main": "1"
+	},
+	"game": {
+		"components": {},
+		"main": "1"
+	}
+}

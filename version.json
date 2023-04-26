@@ -1,7 +1,11 @@
 {
 	"launcher": {
 		"components": {},
-		"main": "1"
+		"main": "1",
+		"downloadUrls":  {
+			"linux": "https://raw.githubusercontent.com/Orobios/meta/main/downloads/launcher/linux.zip",
+			"windows": "https://raw.githubusercontent.com/Orobios/meta/main/downloads/launcher/windows.zip"
+		}
 	},
 	"game": {
 		"components": {},
